@@ -1,0 +1,82 @@
+{
+  "1": {
+    "name": "Shkumbin",
+    "surname": "Delija",
+    "student_id": "151635507",
+    "role": "0",
+    "email": "sd35507@ubt-uni.net",
+    "password": "secret"
+  },
+  "2": {
+    "name": "Studenti2",
+    "surname": "Delija",
+    "student_id": "151635508",
+    "role": "0",
+    "email": "sd35508@ubt-uni.net",
+    "password": "secret"
+  },
+  "3": {
+    "name": "Studenti3",
+    "surname": "Delija",
+    "student_id": "151635509",
+    "role": "0",
+    "email": "sd35509@ubt-uni.net",
+    "password": "secret"
+  },
+  "4": {
+    "name": "Studenti4",
+    "surname": "Delija",
+    "student_id": "151635510",
+    "role": "0",
+    "email": "sd35510@ubt-uni.net",
+    "password": "secret"
+  },
+  "5": {
+    "name": "Studenti5",
+    "surname": "Delija",
+    "student_id": "151635511",
+    "role": "0",
+    "email": "sd35511@ubt-uni.net",
+    "password": "secret"
+  },
+  "6": {
+    "name": "Studenti6",
+    "surname": "Delija",
+    "student_id": "151635512",
+    "role": "0",
+    "email": "sd35512@ubt-uni.net",
+    "password": "secret"
+  },
+  "7": {
+    "name": "Studenti7",
+    "surname": "Delija",
+    "student_id": "151635513",
+    "role": "0",
+    "email": "sd35513@ubt-uni.net",
+    "password": "secret"
+  },
+  "8": {
+    "name": "Studenti8",
+    "surname": "Delija",
+    "student_id": "151635514",
+    "role": "0",
+    "email": "sd35514@ubt-uni.net",
+    "password": "secret"
+  },
+  "9": {
+    "name": "Studenti9",
+    "surname": "Delija",
+    "student_id": "151635515",
+    "role": "0",
+    "email": "sd35515@ubt-uni.net",
+    "password": "secret"
+  },
+  "10": {
+    "name": "Studenti10",
+    "surname": "Delija",
+    "student_id": "151635516",
+    "role": "0",
+    "email": "sd35516@ubt-uni.net",
+    "password": "secret"
+  }
+}

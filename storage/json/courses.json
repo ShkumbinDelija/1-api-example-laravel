@@ -1,0 +1,34 @@
+{
+  "1": {
+    "name": "Arkitektura Softuerike",
+    "code": "AS"
+  },
+  "2": {
+    "name": "Arkitektura Kompjuterike",
+    "code": "AK"
+  },
+  "3": {
+    "name": "Inxhinieri Softuerike",
+    "code": "IS"
+  },
+  "4": {
+    "name": "Baza e te dhenave",
+    "code": "DB"
+  },
+  "5": {
+    "name": "Lab Course 1",
+    "code": "LC1"
+  },
+  "6": {
+    "name": "Lab Course 2",
+    "code": "LC2"
+  },
+  "7": {
+    "name": "Shkenca Kompjuterike 1",
+    "code": "SK1"
+  },
+  "8": {
+    "name": "Shkenca Kompjuterike 2",
+    "code": "SK2"
+  }
+}

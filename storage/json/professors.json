@@ -1,0 +1,26 @@
+{
+  "1": {
+    "name": "Ramiz",
+    "surname": "Hoxha",
+    "professor_id": "10",
+    "role": "1",
+    "email": "ramiz.hoxha@ubt-uni.net",
+    "password": "secret"
+  },
+  "2": {
+    "name": "Fisnik",
+    "surname": "Prekazi",
+    "professor_id": "11",
+    "role": "1",
+    "email": "fisnik.prekazi@ubt-uni.net",
+    "password": "secret"
+  },
+  "3": {
+    "name": "Fatos",
+    "surname": "Maxhuni",
+    "professor_id": "13",
+    "role": "1",
+    "email": "fatos.maxhuni@ubt-uni.net",
+    "password": "secret"
+  }
+}
